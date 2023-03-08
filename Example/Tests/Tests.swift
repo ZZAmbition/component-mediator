@@ -1,5 +1,5 @@
 import XCTest
-import Mediator
+
 
 class Tests: XCTestCase {
     

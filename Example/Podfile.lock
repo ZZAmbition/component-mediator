@@ -1,0 +1,31 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - Mediator (0.1.0):
+    - ZZMediator
+  - ZZMediator (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase (~> 2.1.4)
+  - Mediator (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+    - ZZMediator
+
+EXTERNAL SOURCES:
+  Mediator:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  Mediator: 77ca9fba420a4d6a152102bb6a756f182ffe38da
+  ZZMediator: 169193bbbc456fb2bfefba7b5919c958fe8a29b7
+
+PODFILE CHECKSUM: 65ec1ed3055033141b9b0804fa4b9154119e587a
+
+COCOAPODS: 1.11.3

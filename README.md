@@ -5,6 +5,18 @@
 [![License](https://img.shields.io/cocoapods/l/Mediator.svg?style=flat)](https://cocoapods.org/pods/Mediator)
 [![Platform](https://img.shields.io/cocoapods/p/Mediator.svg?style=flat)](https://cocoapods.org/pods/Mediator)
 
+## git
+
+```
+echo "# component-mediator" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:ZZAmbition/component-mediator.git
+git push -u origin main
+```
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
